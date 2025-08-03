@@ -1,0 +1,20 @@
+# Core Python Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Time Series & Change Point
+pymc==5.10.0
+arviz
+ruptures
+
+# Dashboard & Web Framework
+flask
+flask-cors
+
+# Visualization (optional)
+plotly
+streamlit
+
+# Frontend (React handled separately in dashboard/)
