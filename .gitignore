@@ -1,0 +1,38 @@
+
+---
+
+###  `.gitignore`
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Output files
+output/
+*.csv
+*.xlsx
+*.json
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Dashboard builds
+dashboard/build/
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
